@@ -1,2 +1,0 @@
-# funlearning
-Test Repository Created.
